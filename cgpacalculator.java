@@ -11,8 +11,7 @@ public class cgpacalculator {
         int agileCredits = 4;
         int javaLabCredits = 2;
         int dbmsLabCredits = 2;
-        int ssCredits = 1;
-
+        int ssCredits = 1;// this is a comment
         System.out.print("Enter grade point for DCM: ");
         double dcmGradePoint = scanner.nextDouble();
         
